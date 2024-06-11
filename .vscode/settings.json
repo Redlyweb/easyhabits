@@ -1,0 +1,20 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false,
+        "*.json": false,
+        "*.mjs": false,
+        "*.ts": false,
+        "**/.gitignore": false,
+        "*.yaml": false,
+        "*.md": false,
+        ".next": false,
+        ".vscode": false,
+        "node_modules": false
+    },
+    "explorerExclude.backup": {}
+}
